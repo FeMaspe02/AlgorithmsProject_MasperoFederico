@@ -1,0 +1,12 @@
+# Dataset (downloaded at runtime, never committed)
+data/
+*.zip
+*.csv
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
