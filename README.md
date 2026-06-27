@@ -14,7 +14,7 @@ This project implements and evaluates three stream analysis algorithms from scra
 
 Reservoir sampling is also implemented as part of the AMS algorithm. Each algorithm is validated against exact ground truths, and the project demonstrates that these methods achieve good accuracy while using memory bounded independently of the stream size.
 
-The full analysis and results are presented in the project report (`report.pdf`).
+The full analysis and results are presented in the project report (`Final Project Report - Maspero Federico.pdf`).
 
 ## Repository structure
 
@@ -34,7 +34,7 @@ The notebook installs the `kaggle` package automatically when run.
 
 The notebook downloads the dataset dynamically from Kaggle at runtime; it is not stored in this repository. To allow the download, Kaggle API credentials must be provided:
 
-- **On Google Colab:** add your Kaggle credentials as secrets via the Secrets panel (🔑 icon in the left sidebar), named `KAGGLE_USERNAME` and `KAGGLE_KEY`, with notebook access enabled.
+- **On Google Colab:** add your Kaggle credentials as secrets via the Secrets panel (key icon in the left sidebar), named `KAGGLE_USERNAME` and `KAGGLE_KEY`, with notebook access enabled.
 - **Locally:** place your `kaggle.json` file in `~/.kaggle/kaggle.json`.
 
 Kaggle credentials can be generated from your Kaggle account under Settings → API → Create New Token.
