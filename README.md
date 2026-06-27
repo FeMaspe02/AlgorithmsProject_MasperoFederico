@@ -1,6 +1,6 @@
 # Stream Analysis  - Project 7
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FeMaspe02/AlgorithmsProject_MasperoFederico/blob/main/NOTEBOOK_FILENAME.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FeMaspe02/AlgorithmsProject_MasperoFederico/blob/main/stream_analysis.ipynb)
 
 Final project for the Algorithms for Massive Datasets course at the University of Milan, held by Professor Dario Malchiodi.
 
